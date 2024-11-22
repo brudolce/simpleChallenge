@@ -5,7 +5,7 @@ Simple React TS Coding Challenge
 
 ## Introduction
 
-This is an application tha renders very simple componets on a list
+This is an application that renders very simple componets on a list
 
 ### Main Technologies
 
