@@ -17,20 +17,11 @@ export default function App() {
       />
       <button
         onClick={() => {
-          // addItem(value);
           setValue("");
         }}
       >
         Add Item
       </button>
-      {/* {getItems().map((i) => (
-        <Item
-          key={i}
-          content={i}
-          deleteItem={deleteItem}
-          updateItem={updateItem}
-        />
-      ))} */}
     </div>
   );
 }
