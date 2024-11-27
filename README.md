@@ -29,3 +29,15 @@ This is an application that renders very simple componets on a list
 4. Running project:
 
    `$ npm start`
+
+## Storyboard
+
+The application consists of a list of strings. In order to complete the task it is required to:
+
+1. User should be able to create a new item in the list
+
+2. Application should render the list
+
+3. User should be able to delete an item of the list
+
+4. User should be able to update an item of the list

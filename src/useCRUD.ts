@@ -15,12 +15,12 @@ export const useCRUD = () => {
     }
   }, []);
   
+    const addItem = () => {
+      //TODO: iteration I - Create
+    };
+  
   const getItems = () => {
-    //TODO: iteration I - Read
-  };
-
-  const addItem = () => {
-    //TODO: iteration II - Create
+    //TODO: iteration II - Read
   };
   
   const deleteItem = () => {
